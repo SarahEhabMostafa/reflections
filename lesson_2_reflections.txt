@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+a new hidden folder named ".git" is created. It contains all the meta-data git needs for this repository.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+A repository is the screenshot of all the files at a certain point in time. A working copy is a version of the repository that I have on my machine and it's where I do all the modifications before I commit them to the repository. The staging area is a temporary place between the working copy and the repository. It's useful because it allows me to add more than one file in a single commit to the repository.
