@@ -12,3 +12,6 @@ When adding a new feature that is still not 100% mature and might ruin the appli
 
 How do the diagrams help you visualize the branch structure?
 It's alot better seeing them as a diagram instead of just a bunch of lines under each other.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+A branch that contains all the modifications made on both branches. Because they do move in two different directions and then after the merge they become one again.
