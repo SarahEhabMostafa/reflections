@@ -15,3 +15,7 @@ It's alot better seeing them as a diagram instead of just a bunch of lines under
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 A branch that contains all the modifications made on both branches. Because they do move in two different directions and then after the merge they become one again.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic merging saves the developer's time and effort by sparing him the hassle of having to compare hundreds and maybe thousands of lines everytime he performs a commit. The bas side of it is that it sometimes messes up a file when conflicts occur.
+Manual merging on the other hand guarantees that nothing will be lost neither messed up because the two or more concerned people will be the ones merging and putting in the file what is needed without messing it up. But that would take up alot of time.
