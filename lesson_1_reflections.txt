@@ -2,7 +2,7 @@ How did viewing a diff between two versions of a file help you see the bug that 
 It narrowed down the 1000+ lines to a couple of lines that were different from each other. Thus, looking for a bug became 1000 times easier only by narrowing down the search space.
 
 How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
-I'd be able to look back on how I used to solve problems and whether these solutions were efficient and the best solution for that specific problem or not. I'd be able to learn from my mistakes.
+I'd be able to look back on how I used to solve problems and whether these solutions were efficient and the best solution for that specific problem. I'd be able to learn from my mistakes.
 
 What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
 Pros:
@@ -21,7 +21,7 @@ git log shows the entire log history of commits in the current repository
 git diff on the other hand shows the differences in the file(s) of two specific commits. git diff is typed followed by the IDs of the two specific commits I want to compare. 
 
 How might using version control make you more confident to make changes that could break something?
-Because if something goes wrong, I'm sure I can go back to the point before when everything was working perfectly fine. Even if I don't know when exactly did this something go wrong, I can go through all the previous versions untill I find the breaking point.
+Because if something goes wrong, I'm sure I can go back to the previous point when everything was working perfectly fine. Even if I don't know when exactly did this something go wrong, I can go through all the previous versions untill I find the breaking point.
 
 Now that you have your workspace set up, what do you want to try using Git for?
 creating a new repository
