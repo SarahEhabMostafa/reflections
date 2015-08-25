@@ -9,3 +9,6 @@ A fork clones a repository on Github to another repository on GitHub.
 A clone could be used to clone a repository on my local machine to another repository on my local machine or a repository on GitHub to a repository on my local machine.
 A brach is used to create a new branch on the same repository.
 I'd use a fork to clone someone's repository that I'm not a contributor on so that I can make changes to it. I'd use a clone to make a copy of a repository that I have on my machine to a new directory or when I need to clone a repository from GitHub to my local machine to add changes to it. And lastly, I'd use a branch if I want to add a new feature to the current project.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+It's very handy if I'm working with no internet connection and I want to see the state of a file or recall changes I've made to a file.
