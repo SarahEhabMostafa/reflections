@@ -12,3 +12,6 @@ I'd use a fork to clone someone's repository that I'm not a contributor on so th
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 It's very handy if I'm working with no internet connection and I want to see the state of a file or recall changes I've made to a file.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I would probably create a file on google docs for each file that I want to collaborate with another team member on. Managing the entire project would be so much harder as it's not in one place. Showing my changes to others for them to review and comment on would be easier than GitHub.
