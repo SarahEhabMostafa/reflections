@@ -15,3 +15,6 @@ It's very handy if I'm working with no internet connection and I want to see the
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 I would probably create a file on google docs for each file that I want to collaborate with another team member on. Managing the entire project would be so much harder as it's not in one place. Showing my changes to others for them to review and comment on would be easier than GitHub.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Making changes in a separate branch would be very useful when I want another collaborator to review my changes before committing them to the master branch. It's also useful when I'm running an open source live project and me any my team want to add new features to it without harming the live project so that other users can still find and use it.  Making changes directly in the master branch saves time and is safe to use with a regular (not open source) project.
